@@ -1,0 +1,7 @@
+{
+    "name": "jsonzzz",
+    "version": "v1.0.0",
+    "dependencies": {
+        "express": "v4.x.x"
+    }
+}
